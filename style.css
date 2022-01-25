@@ -1,0 +1,67 @@
+body{
+    font-family: 'Outfit', sans-serif;
+}
+.mission{
+    color: rgba(241, 121, 52, 0.801)
+}
+.stay{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 80%;
+    border-left: 5px solid;
+    border-color: salmon;
+    border-radius: 5px;
+    border-image-slice: 5;
+}
+.pad{
+    padding: 20px;
+    
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon, tomato);
+    color: white;
+    font-weight: 700;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.image{
+    display: flex;
+}
+.width{
+    width: 50%;
+    padding-left: 200px;
+    padding-top: 20px;
+}
+.width img{
+    width: 75%;
+}
+.my{
+    font-size: 40px;
+    padding-top: 100px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+.illutrates{
+    display: flex;
+    width: 75%;
+    padding-top: 100px;
+}
+.illutrates img{
+    width: 100%;
+}
+.missionis{
+    background: rgb(247, 205, 255);
+    border-radius: 10px;
+}
+.vissionis{
+    background: rgb(200, 222, 250);
+    border-radius: 10px;
+}
+.goals{
+    background: rgb(190, 240, 185);
+    border-radius: 10px;
+}
