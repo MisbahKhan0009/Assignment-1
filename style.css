@@ -72,6 +72,10 @@ body{
 }
 .dev{
     padding-top: 80px;
+    display: flex;
+}
+.dev img{
+    border-radius: 10px;
 }
 .developer {
     font-size: 25px;
