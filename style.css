@@ -48,10 +48,12 @@ body{
 .illutrates{
     display: flex;
     width: 75%;
-    padding-top: 100px;
+    padding-top: 80px;
+    padding-left: 200px;
 }
 .illutrates img{
-    width: 100%;
+    width: 40%;
+
 }
 .missionis{
     background: rgb(247, 205, 255);
@@ -64,4 +66,7 @@ body{
 .goals{
     background: rgb(190, 240, 185);
     border-radius: 10px;
+}
+.open{
+    padding-left: 30px;
 }
