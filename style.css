@@ -70,3 +70,10 @@ body{
 .open{
     padding-left: 30px;
 }
+.dev{
+    padding-top: 80px;
+}
+.developer {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
