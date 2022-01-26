@@ -113,3 +113,22 @@ body{
 .foot p{
     font-weight: 20px;
 }
+.mys{
+    text-align: center;
+    display: flex;
+    width: 100%;
+}
+.mys img{
+width: 10%;
+padding-bottom: 50px;
+}
+.myo{
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    padding-bottom: 20px;
+}
+.mrgn{
+    margin-bottom: 0;
+}
